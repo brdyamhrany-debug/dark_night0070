@@ -39,6 +39,6 @@ Get up and running in under 60 seconds.
 
 1️⃣ Clone the Repository:
 ```bash
-git clone https://github.com/brdyamhrany-debug/dark_night0070-v3.git
-cd dark_night0070-v3
+git clone https://github.com/brdyamhrany-debug/dark_night0070.git
+cd dark_night0070
 python smsV3.py
