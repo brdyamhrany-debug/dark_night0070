@@ -1,10 +1,7 @@
-  ____  __  ___ ____ 
- / __/ /  |/  / __/ 
-_\ \/ /|_/ /\ \   
-/___/_/  /_/___/   
+  
 https://eitaa.com/cafe_code
 
-🔴 SMS Bomber V3 | The Ultimate Evolution 🔴
+🔴 SMS Bomber V3 | 
 Version: 3.0 | Status: Stable & Advanced
 
 Welcome to the pinnacle of SMS flooding technology. SMS Bomber V3 is not just an update; it is a complete architectural redesign, built to outperform V2 in every conceivable metric. If V2 was fast, V3 is instantaneous.
@@ -32,3 +29,4 @@ Get up and running in under 60 seconds.
 ```bash
 git clone https://github.com/brdyamhrany-debug/dark_night0070-v3.git
 cd dark_night0070-v3
+python smsV3.py
