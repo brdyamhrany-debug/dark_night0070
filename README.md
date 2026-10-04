@@ -1,51 +1,34 @@
-# dark_night0070
-``` ____  _  _  ____  _  _  ____ 
-/ ___)( \/ )/ ___)/ )( \(___ \
-\___ \/ \/ \\___ \\ \/ / / __/
-(____/\_)(_/(____/ \__/ (____)
-```
-
-
+  ____  __  ___ ____ 
+ / __/ /  |/  / __/ 
+_\ \/ /|_/ /\ \   
+/___/_/  /_/___/   
 https://eitaa.com/cafe_code
 
+🔴 SMS Bomber V3 | The Ultimate Evolution 🔴
+Version: 3.0 | Status: Stable & Advanced
 
-# 🔴 SMS Bomber V2 | sms cafe code 🔴
+Welcome to the pinnacle of SMS flooding technology. SMS Bomber V3 is not just an update; it is a complete architectural redesign, built to outperform V2 in every conceivable metric. If V2 was fast, V3 is instantaneous.
 
-![Version](https://img.shields.io/badge/Version-2.0.0-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Updated-brightgreen?style=for-the-badge)
+🚀 What's New in V3?
+We have stripped the core down to the metal and rebuilt it for maximum efficiency and stealth.
 
-Welcome to the upgraded version of the most powerful SMS flooding tool in the **sms cafe code** ecosystem. **SMS Bomber V2** has been completely rewritten to provide unmatched speed, reliability, and a wider range of API endpoints.
+⚡ Quantum Speed Engine: Re-engineered asynchronous event loop for 3x faster request processing compared to V2.
+🧠 Intelligent API Aggregator: Automated dynamic fetching system that pulls from thousands of live, curated endpoints in real-time.
+🛡️ Advanced Evasion Tactics: Smart proxy rotation and payload randomization to neutralize advanced anti-bot protection.
+👁️ Red Eye UI v3: A complete overhaul of the terminal interface, featuring real-time success/failure heatmaps and enhanced logging.
+🔋 Ultra-Low Footprint: Optimized for low-end hardware; runs seamlessly on Termux and limited resource environments.
 
-## 🚀 What's New in V2?
+✨ Key Features
+- Dynamic API Pool: Real-time source updates (no more dead links).
+- Custom Payload Configuration: Fine-tune your requests for specific carriers.
+- Proxy Chaining Support: Hide your footprint with integrated proxy management.
+- Multi-Stage Attack Patterns: Send single bursts or sustained, "slow-burn" campaigns.
+- No-Dependency Hell: Simplified installation script for instant deployment on Debian/Termux.
 
-The wait is over! We've listened to your feedback and pushed the limits of performance.
+📥 Installation
+Get up and running in under 60 seconds.
 
-*   **⚡ Blazing Fast Speed:** Optimized asynchronous requests (using `aiohttp`/`threading`) for near-instant SMS flooding.
-*   **🎯 Expanded API Pool:** Integrated dozens of new gateways from various providers globally.
-*   **🛠️ Smart Targeting:** Improved logic to bypass basic rate-limiting and provider blocks.
-*   **🎨 Enhanced UI:** A clean, professional Terminal User Interface (TUI) with the signature **Red Eye** aesthetics.
-*   **📉 Low Resource Usage:** Optimized to run smoothly even on low-end devices like **Termux** or older Android phones.
-
-## ✨ Key Features
-
-- [x] High-speed multi-threading.
-- [x] Support for multiple country codes.
-- [x] Automated bypass for common anti-spam measures.
-- [x] Stealth mode (minimal logs).
-- [x] Custom delay settings (from instant to slow-burn).
-
----
-
-## 📥 Installation
-
-Since you are likely running this on **Termux** or a **Debian-based** system (like antiX), follow these steps to get up and running quickly.
-
-### 1️⃣ Clone the Repository
-
-git clone https://github.com/brdyamhrany-debug/dark_night0070.git
-
-cd dark_night0070
-
-python smsV2.py
-
+1️⃣ Clone the Repository:
+```bash
+git clone https://github.com/brdyamhrany-debug/dark_night0070-v3.git
+cd dark_night0070-v3
