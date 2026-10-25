@@ -41,4 +41,5 @@ Get up and running in under 60 seconds.
 ```bash
 git clone https://github.com/brdyamhrany-debug/dark_night0070.git
 cd dark_night0070
+pip install -r requirements.txt
 python smsV3.py
